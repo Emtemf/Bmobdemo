@@ -1,8 +1,9 @@
 # 借助bmob实现简单的登陆注册
 
-![在这里插入图片描述](https://github.com/kurumi2501314/Bmobdemo/blob/master/ezgif.com-video-to-gif.gif?raw=true)
+![动态展示](https://github.com/kurumi2501314/Bmobdemo/blob/master/ezgif.com-video-to-gif%20(1).gif?raw=true)
 
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190410220636600.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzE4NDAw,size_16,color_FFFFFF,t_70)
 
 
 欢迎下载
